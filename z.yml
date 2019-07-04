@@ -1,0 +1,13 @@
+---
+description: Azure SAS support
+fullname: lib.azure.sas
+info:
+    chip_manufacturer: '-'
+    chip_name: '-'
+    name: Zerynth Azure SAS Library
+    type: ''
+keywords:
+- azure
+- sas
+title: Azure SAS Library
+...
